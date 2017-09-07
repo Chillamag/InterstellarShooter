@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 033fd5c45b73bf447856650f62b803fe
+timeCreated: 1502623490
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Canon_GRP
+    100002: cockpit
+    100004: engine_01
+    100006: engine_01 1
+    100008: engine_02
+    100010: engine_02 1
+    100012: group5
+    100014: group5 1
+    100016: gun_grp
+    100018: gun_grp 1
+    100020: missiles
+    100022: missiles 1
+    100024: pCube15
+    100026: pCube15 1
+    100028: pCube3
+    100030: pCube3 1
+    100032: polySurface1
+    100034: polySurface14
+    100036: polySurface14 1
+    100038: polySurface14 2
+    100040: polySurface14 3
+    100042: polySurface15
+    100044: polySurface15 1
+    100046: polySurface16
+    100048: polySurface16 1
+    100050: polySurface17
+    100052: polySurface22
+    100054: polySurface24
+    100056: polySurface25
+    100058: polySurface25 1
+    100060: polySurface3
+    100062: polySurface38
+    100064: polySurface39
+    100066: polySurface39 1
+    100068: polySurface5
+    100070: polySurface53
+    100072: polySurface53 1
+    100074: polySurface54
+    100076: polySurface56
+    100078: polySurface61
+    100080: polySurface61 1
+    100082: polySurface62
+    100084: polySurface62 1
+    100086: polySurface63
+    100088: polySurface63 1
+    100090: polySurface64
+    100092: polySurface64 1
+    100094: polySurface65
+    100096: polySurface66
+    100098: polySurface66 1
+    100100: polySurface7
+    100102: polySurface7 1
+    100104: polySurface7 2
+    100106: polySurface7 3
+    100108: //RootNode
+    100110: side_GRP
+    100112: side_GRP1
+    100114: small_missilebox
+    100116: small_missilebox 1
+    100118: transform3
+    100120: transform4
+    100122: wing_weapon_box
+    100124: wing_weapon_box 1
+    400000: Canon_GRP
+    400002: cockpit
+    400004: engine_01
+    400006: engine_01 1
+    400008: engine_02
+    400010: engine_02 1
+    400012: group5
+    400014: group5 1
+    400016: gun_grp
+    400018: gun_grp 1
+    400020: missiles
+    400022: missiles 1
+    400024: pCube15
+    400026: pCube15 1
+    400028: pCube3
+    400030: pCube3 1
+    400032: polySurface1
+    400034: polySurface14
+    400036: polySurface14 1
+    400038: polySurface14 2
+    400040: polySurface14 3
+    400042: polySurface15
+    400044: polySurface15 1
+    400046: polySurface16
+    400048: polySurface16 1
+    400050: polySurface17
+    400052: polySurface22
+    400054: polySurface24
+    400056: polySurface25
+    400058: polySurface25 1
+    400060: polySurface3
+    400062: polySurface38
+    400064: polySurface39
+    400066: polySurface39 1
+    400068: polySurface5
+    400070: polySurface53
+    400072: polySurface53 1
+    400074: polySurface54
+    400076: polySurface56
+    400078: polySurface61
+    400080: polySurface61 1
+    400082: polySurface62
+    400084: polySurface62 1
+    400086: polySurface63
+    400088: polySurface63 1
+    400090: polySurface64
+    400092: polySurface64 1
+    400094: polySurface65
+    400096: polySurface66
+    400098: polySurface66 1
+    400100: polySurface7
+    400102: polySurface7 1
+    400104: polySurface7 2
+    400106: polySurface7 3
+    400108: //RootNode
+    400110: side_GRP
+    400112: side_GRP1
+    400114: small_missilebox
+    400116: small_missilebox 1
+    400118: transform3
+    400120: transform4
+    400122: wing_weapon_box
+    400124: wing_weapon_box 1
+    2300000: cockpit
+    2300002: gun_grp
+    2300004: gun_grp 1
+    2300006: pCube15
+    2300008: pCube15 1
+    2300010: pCube3
+    2300012: pCube3 1
+    2300014: polySurface1
+    2300016: polySurface14
+    2300018: polySurface14 1
+    2300020: polySurface14 2
+    2300022: polySurface14 3
+    2300024: polySurface15
+    2300026: polySurface15 1
+    2300028: polySurface16
+    2300030: polySurface16 1
+    2300032: polySurface17
+    2300034: polySurface22
+    2300036: polySurface25
+    2300038: polySurface25 1
+    2300040: polySurface3
+    2300042: polySurface38
+    2300044: polySurface39
+    2300046: polySurface39 1
+    2300048: polySurface5
+    2300050: polySurface53
+    2300052: polySurface53 1
+    2300054: polySurface54
+    2300056: polySurface61
+    2300058: polySurface61 1
+    2300060: polySurface62
+    2300062: polySurface62 1
+    2300064: polySurface63
+    2300066: polySurface63 1
+    2300068: polySurface64
+    2300070: polySurface64 1
+    2300072: polySurface65
+    2300074: polySurface66
+    2300076: polySurface66 1
+    2300078: polySurface7
+    2300080: polySurface7 1
+    2300082: polySurface7 2
+    2300084: polySurface7 3
+    2300086: wing_weapon_box
+    2300088: wing_weapon_box 1
+    3300000: cockpit
+    3300002: gun_grp
+    3300004: gun_grp 1
+    3300006: pCube15
+    3300008: pCube15 1
+    3300010: pCube3
+    3300012: pCube3 1
+    3300014: polySurface1
+    3300016: polySurface14
+    3300018: polySurface14 1
+    3300020: polySurface14 2
+    3300022: polySurface14 3
+    3300024: polySurface15
+    3300026: polySurface15 1
+    3300028: polySurface16
+    3300030: polySurface16 1
+    3300032: polySurface17
+    3300034: polySurface22
+    3300036: polySurface25
+    3300038: polySurface25 1
+    3300040: polySurface3
+    3300042: polySurface38
+    3300044: polySurface39
+    3300046: polySurface39 1
+    3300048: polySurface5
+    3300050: polySurface53
+    3300052: polySurface53 1
+    3300054: polySurface54
+    3300056: polySurface61
+    3300058: polySurface61 1
+    3300060: polySurface62
+    3300062: polySurface62 1
+    3300064: polySurface63
+    3300066: polySurface63 1
+    3300068: polySurface64
+    3300070: polySurface64 1
+    3300072: polySurface65
+    3300074: polySurface66
+    3300076: polySurface66 1
+    3300078: polySurface7
+    3300080: polySurface7 1
+    3300082: polySurface7 2
+    3300084: polySurface7 3
+    3300086: wing_weapon_box
+    3300088: wing_weapon_box 1
+    4300000: polySurface1
+    4300002: polySurface17
+    4300004: polySurface22
+    4300006: cockpit
+    4300008: polySurface54
+    4300010: polySurface65
+    4300012: polySurface3
+    4300014: polySurface5
+    4300016: polySurface38
+    4300018: polySurface16
+    4300020: polySurface39
+    4300022: polySurface53
+    4300024: polySurface15
+    4300026: polySurface14
+    4300028: polySurface7
+    4300030: polySurface14
+    4300032: polySurface7
+    4300034: polySurface61
+    4300036: pCube3
+    4300038: polySurface63
+    4300040: polySurface64
+    4300042: polySurface62
+    4300044: pCube15
+    4300046: polySurface25
+    4300048: polySurface66
+    4300050: gun_grp
+    4300052: wing_weapon_box
+    4300054: polySurface16
+    4300056: polySurface39
+    4300058: polySurface53
+    4300060: polySurface15
+    4300062: polySurface14
+    4300064: polySurface7
+    4300066: polySurface14
+    4300068: polySurface7
+    4300070: polySurface61
+    4300072: pCube3
+    4300074: polySurface63
+    4300076: polySurface64
+    4300078: polySurface62
+    4300080: pCube15
+    4300082: polySurface25
+    4300084: polySurface66
+    4300086: gun_grp
+    4300088: wing_weapon_box
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
